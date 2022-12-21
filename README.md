@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+**About Me:**
 
 - 👨🏽‍💻 目前就读于厦门理工学院软件工程专业。
 - 🌱 目前在进行SpringCloud框架的学习。

@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 目前就读于厦门理工学院软件工程专业。
 - 🌱 目前在进行SpringCloud框架的学习。
 - 🤔 玩过非常非常多的游戏……P5天下第一！
-- 💬 Ask me about anything, I love to answer!
+- 💬 目前求职中ing
 - 📫 邮箱是 [nf916803397@gmail.com]
 
 
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, 这里是NoFatter的GitHub!</h3>
 
 
-你好！我是李昱韬, 目前就读于软件工程专业，是一名23届应届毕业生。
+你好！
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me:**
 
-- 👨🏽‍💻 目前就读于厦门理工学院软件工程专业。
-- 🌱 目前在进行SpringCloud框架的学习。
-- 🎮 玩过非常非常多的游戏……P5天下第一！
-- 💬 目前求职中ing
+- 👨🏽‍💻 目前在某公司担任后端开发QwQ~
+- 🌱 不知道学什么，正在摆烂
+- 🎮 真的很爱玩游戏，但是P5是天下第一
+- 💬 请忙起来！
 - 📫 邮箱是 [nf916803397@gmail.com]
 
 
